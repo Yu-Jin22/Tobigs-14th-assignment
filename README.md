@@ -1,4 +1,4 @@
-# Tobigs14 정규 세미나 assignment
+# Tobigs14 Regular Session assignment
 
 |wk |data|Lecture|
 |---|----------|----------------------------------------------|
