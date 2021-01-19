@@ -1,4 +1,4 @@
-# Tobigs14 Regular Session assignment
+# Tobigs14 Regular Session assignment✔
 
 |wk |data|Lecture|
 |---|----------|----------------------------------------------|
