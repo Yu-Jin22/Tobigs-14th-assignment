@@ -1,7 +1,8 @@
 # Tobigs14 정규 세미나 assignment
 <br>
-|wk|data|Lecture|
-|------|---|---|
+
+|wk |data|Lecture|
+|---|----------|----------------------------------------------|
 |wk1|2020.07.22|Data Preprocessing & EDA & Open Source and Git|
 |wk2|2020.07.29|Linear Regression & Optimization|
 |wk3|2020.08.05|Naive Bayes and Decision Tree & KNN and Clustering|
